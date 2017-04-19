@@ -1,6 +1,6 @@
 <!--start before navigation-->
 <div class="nicdark_section nicdark_bg_greydark nicdark_displaynone_responsive">
-    <div class="nicdark_containe nicdark_clearfix">
+    <div class="nicdark_container nicdark_clearfix">
         <div class="grid grid_6">
             <div class="nicdark_focus">
                 <?php $topheader_left_content = __($redux_demo['topheader_left_content'],'lovetravel'); ?>

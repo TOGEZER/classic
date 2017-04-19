@@ -79,7 +79,13 @@ JQUERY UI
 
 /***********************SOME CLASSES THAT YOU CAN APPLY TO ALL ELEMENTS FOR DECIDE THE GRAPHIC*************************************/
 
-
+/*new styles*/
+.nicdark_divider.full-width.small > span{
+      background-color: #d1d1d1 !important;
+    height: 1px;
+    width: 100%;
+}
+/*end new styles*/
 
 /* 1 - START NICDARKBG*/
 .nicdark_bg_white{ background-color: #ffffff; }
@@ -133,7 +139,7 @@ JQUERY UI
 
 
 /* 6 - START LOGO*/
-.nicdark_logo{ float: left; position: relative; width: 10px; height: 10px; }
+.nicdark_logo{ float: left; position: relative; width: 310px; height: 10px; margin-right: 30px }
 .nicdark_logo img{ position: absolute; border:0;}
 /*END LOGO*/
 
