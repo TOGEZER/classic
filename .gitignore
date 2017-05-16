@@ -61,7 +61,7 @@
 # ----------------------------------
 /wp-config-local.php
 /wp-config-staging.php
-/wp-config.php   #  anadir despues TODO
+/wp-config.php                                  #  anadir despues TODO
 !/wp-config-PROD.php
 !/wp-config-AXEL.php
 !/wp-config-LUIS.php
@@ -73,7 +73,7 @@
 /wp-content/*
 !/wp-content/plugins/
 !/wp-content/mu-plugins/
-!/wp-content/themes/
+!/wp-content/themes/                            # important (le code)
 #!/wp-content/uploads
 
 # wp-content/plugins
@@ -100,7 +100,7 @@
 # ----------------------------------
 /wp-content/themes/*
 !/wp-content/themes/lovetravel/
-# /wp-content/themes/twenty*
+!/wp-content/themes/twentyseventeen/
 
 
 # Cache

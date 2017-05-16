@@ -3,6 +3,9 @@
  AXEL
  **/
 
+define('WP_DEBUG', true);
+
+
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'classic-axel' );
